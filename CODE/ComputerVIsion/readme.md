@@ -8,7 +8,7 @@
   - [ ] Image resolution and aspect ratio
 - [ ] Color theory
   - [ ] Color spaces (RGB, HSV, LAB)
-  - [ ] Color quantization
+  - [X] Color quantization
   - [ ] Gamma correction
 - [ ] Image file formats
   - [ ] Compression (lossy vs lossless)
@@ -20,10 +20,10 @@
   - [ ] Sensors and cameras
   - [ ] Sampling and quantization
   - [ ] Noise sources and types
-- [ ] Preprocessing
-  - [ ] Resizing and scaling
-  - [ ] Normalization
-  - [ ] Color space conversions
+- [X] Preprocessing
+  - [X] Resizing and scaling
+  - [X] Normalization
+  - [X] Color space conversions
 - [ ] Quality assessment
   - [ ] Noise measurement
   - [ ] Sharpness metrics
@@ -56,14 +56,14 @@
 
 ## 🎨 3. Image Processing
 ### Binary Image Processing
-- [ ] Thresholding techniques
-  - [ ] Global thresholding
-  - [ ] Adaptive thresholding
-  - [ ] Otsu's method
-- [ ] Morphological operations
-  - [ ] Erosion and dilation
-  - [ ] Opening and closing
-  - [ ] Hit-or-miss transform
+- [X] Thresholding techniques
+  - [X] Global thresholding
+  - [X] Adaptive thresholding
+  - [X] Otsu's method
+- [X] Morphological operations
+  - [X] Erosion and dilation
+  - [X] Opening and closing
+  - [X] Hit-or-miss transform
 
 ### Edge Detection
 - [ ] Gradient-based methods
